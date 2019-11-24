@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenWeb", "GreenWeb\GreenWeb.csproj", "{FD41368F-6F68-4C95-9B92-EC7A51AB876D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD41368F-6F68-4C95-9B92-EC7A51AB876D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD41368F-6F68-4C95-9B92-EC7A51AB876D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD41368F-6F68-4C95-9B92-EC7A51AB876D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD41368F-6F68-4C95-9B92-EC7A51AB876D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F1DC17-B1D8-426C-B602-56FC5AAF5E6E}
+	EndGlobalSection
+EndGlobal
